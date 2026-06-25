@@ -29,7 +29,7 @@ const services = [
     icon: 'Construction',
     title: 'После ремонта',
     desc: 'Удаление строительной пыли, следов краски и клея, мойка окон.',
-    price: 'от 120 ₽/м²',
+    price: 'от 170 ₽/м²',
   },
   {
     icon: 'Sofa',
@@ -48,7 +48,7 @@ const services = [
 const cleanTypes = [
   { id: 'support', label: 'Поддерживающая', rate: 70, icon: 'Wind' },
   { id: 'general', label: 'Генеральная', rate: 150, icon: 'Sparkles' },
-  { id: 'repair', label: 'После ремонта', rate: 120, icon: 'Construction' },
+  { id: 'repair', label: 'После ремонта', rate: 170, icon: 'Construction' },
 ];
 
 const advantages = [
