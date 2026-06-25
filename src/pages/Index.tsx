@@ -11,7 +11,7 @@ const services = [
     icon: 'Home',
     title: 'Уборка квартир',
     desc: 'Поддерживающая и генеральная уборка жилых помещений любой площади.',
-    price: 'от 55 ₽/м²',
+    price: 'от 70 ₽/м²',
   },
   {
     icon: 'Sparkles',
@@ -46,7 +46,7 @@ const services = [
 ];
 
 const cleanTypes = [
-  { id: 'support', label: 'Поддерживающая', rate: 55, icon: 'Wind' },
+  { id: 'support', label: 'Поддерживающая', rate: 70, icon: 'Wind' },
   { id: 'general', label: 'Генеральная', rate: 90, icon: 'Sparkles' },
   { id: 'repair', label: 'После ремонта', rate: 120, icon: 'Construction' },
 ];
