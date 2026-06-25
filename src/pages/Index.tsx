@@ -74,7 +74,7 @@ const Index = () => {
               <Icon name="Droplets" size={20} />
             </span>
             <span className="font-display text-xl font-extrabold tracking-tight">
-              Бле<span className="text-primary">ск</span>
+              Блеск <span className="text-primary">Учалы</span>
             </span>
           </a>
           <nav className="hidden items-center gap-8 text-sm font-medium text-muted-foreground md:flex">
@@ -373,8 +373,7 @@ const Index = () => {
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <Icon name="Droplets" size={15} />
             </span>
-            <span className="font-display font-bold text-foreground">Блеск</span>
-            <span>· Учалы</span>
+            <span className="font-display font-bold text-foreground">Блеск Учалы</span>
           </div>
           <span>© 2026 Блеск. Клининг в Учалах.</span>
         </div>
