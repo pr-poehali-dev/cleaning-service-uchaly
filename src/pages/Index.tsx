@@ -17,7 +17,7 @@ const services = [
     icon: 'Sparkles',
     title: 'Генеральная уборка',
     desc: 'Тщательная мойка всех поверхностей, техники, окон и труднодоступных мест.',
-    price: 'от 90 ₽/м²',
+    price: 'от 150 ₽/м²',
   },
   {
     icon: 'Building2',
@@ -47,7 +47,7 @@ const services = [
 
 const cleanTypes = [
   { id: 'support', label: 'Поддерживающая', rate: 70, icon: 'Wind' },
-  { id: 'general', label: 'Генеральная', rate: 90, icon: 'Sparkles' },
+  { id: 'general', label: 'Генеральная', rate: 150, icon: 'Sparkles' },
   { id: 'repair', label: 'После ремонта', rate: 120, icon: 'Construction' },
 ];
 
