@@ -304,13 +304,13 @@ const Index = () => {
                   <div className="font-display text-lg font-bold">+7 (964) 960-67-39</div>
                 </div>
               </a>
-              <a href="mailto:info@chistograd-uchaly.ru" className="flex items-center gap-4 transition-colors hover:text-primary">
+              <a href="mailto:yumabaeva.gulsum@yandex.ru" className="flex items-center gap-4 transition-colors hover:text-primary">
                 <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent text-accent-foreground">
                   <Icon name="Mail" size={22} />
                 </span>
                 <div>
                   <div className="text-sm text-muted-foreground">Почта</div>
-                  <div className="font-display text-lg font-bold">info@chistograd-uchaly.ru</div>
+                  <div className="font-display text-lg font-bold">yumabaeva.gulsum@yandex.ru</div>
                 </div>
               </a>
               <div className="flex items-center gap-4">
