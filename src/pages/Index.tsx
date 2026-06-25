@@ -120,7 +120,7 @@ const Index = () => {
             </div>
             <div className="mt-10 flex gap-8">
               <div>
-                <div className="font-display text-3xl font-extrabold text-primary">7 лет</div>
+                <div className="font-display text-3xl font-extrabold text-primary">3 года</div>
                 <div className="text-sm text-muted-foreground">на рынке Учалов</div>
               </div>
               <div>
