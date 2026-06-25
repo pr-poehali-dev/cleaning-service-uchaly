@@ -83,7 +83,7 @@ const Index = () => {
             <a href="#contacts" className="transition-colors hover:text-primary">Контакты</a>
           </nav>
           <Button asChild className="rounded-full">
-            <a href="tel:+73479100100">
+            <a href="tel:+79649606739">
               <Icon name="Phone" size={16} />
               Позвонить
             </a>
@@ -295,13 +295,13 @@ const Index = () => {
               Принимаем заявки ежедневно с 8:00 до 21:00. Перезвоним в течение 15 минут.
             </p>
             <div className="mt-8 space-y-5">
-              <a href="tel:+73479100100" className="flex items-center gap-4 transition-colors hover:text-primary">
+              <a href="tel:+79649606739" className="flex items-center gap-4 transition-colors hover:text-primary">
                 <span className="flex h-12 w-12 items-center justify-center rounded-2xl bg-accent text-accent-foreground">
                   <Icon name="Phone" size={22} />
                 </span>
                 <div>
                   <div className="text-sm text-muted-foreground">Телефон</div>
-                  <div className="font-display text-lg font-bold">+7 (34791) 00-100</div>
+                  <div className="font-display text-lg font-bold">+7 (964) 960-67-39</div>
                 </div>
               </a>
               <a href="mailto:info@chistograd-uchaly.ru" className="flex items-center gap-4 transition-colors hover:text-primary">
